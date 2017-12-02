@@ -53,7 +53,7 @@ equal to the photoresistor's resistance at "typical" room lighting. Experimental
 value was found to be approximately 300 ohms, as the photoresistor ranges from 50-500 ohms. 
 The chosen value ensures maximum range of the ADC.
 
-[INSERT CIRCUIT]
+![Photoresistor](https://github.com/RU09342/lab-5-sensing-the-world-around-you-scrumbology-v2-scrum-sensor/blob/master/Visualizing%20Data%20and%20Sensor/Photoresistor.png)
 
 ### Data
 
@@ -76,7 +76,7 @@ the LM35 were connected to VCC and GND, respectively. The middle pin connects to
 Because the LM35 outputs 10mV per °C, a non-inverting op-amp was used to amplify the voltage 
 by (10k/6.8k + 1 = 2.5), which takes advantage of the full range of the ADC.
 
-[INSERT CIRCUIT]
+![Temperature Sensor](https://github.com/RU09342/lab-5-sensing-the-world-around-you-scrumbology-v2-scrum-sensor/blob/master/Visualizing%20Data%20and%20Sensor/TempSensor.png)
 
 ### Data
 
@@ -101,7 +101,7 @@ flowing as a result of the photo-action.
 The collector is connected high to 3.3 V, while the emitter is connected with a 100k ohm
 resistor to grorund. The base is where the voltage is read from.
 
-[INSERT CIRCUIT]
+![Phototransistor](https://github.com/RU09342/lab-5-sensing-the-world-around-you-scrumbology-v2-scrum-sensor/blob/master/Visualizing%20Data%20and%20Sensor/Phototransistor.png)
 
 ### Data
 
