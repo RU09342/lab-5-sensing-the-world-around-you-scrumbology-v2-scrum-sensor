@@ -14,9 +14,9 @@ layer design that contains a ground plane for optimal electromagnetic shielding.
 
 The board was verfied based on design rules, net connectivity, and schematic accuracy.
 
-![Features user-accessible pinouts](lab-5-sensing-the-world-around-you-scrumbology-v2-scrum-sensor/PCB Design/PCB Layer 1.png)
+![Features user-accessible pinouts](https://github.com/RU09342/lab-5-sensing-the-world-around-you-scrumbology-v2-scrum-sensor/blob/master/PCB%20Design/PCB%20Layer%201.png)
 
-![Features ground plane](lab-5-sensing-the-world-around-you-scrumbology-v2-scrum-sensor/PCB Design/PCB Layer 2.png)
+![Features ground plane](https://github.com/RU09342/lab-5-sensing-the-world-around-you-scrumbology-v2-scrum-sensor/blob/master/PCB%20Design/PCB%20Layer%202.png)
 
 ## Schematic
 
@@ -28,7 +28,7 @@ connected proportionally to the number of output pins.
 Reset circuitry is included consisting of a capacitor going to ground
 to ensure debouncing and a 47k resistor used as a pull up resistor.
 
-![Circuit of Breakout Board](lab-5-sensing-the-world-around-you-scrumbology-v2-scrum-sensor/PCB Design/Schematic.png)
+![Circuit of Breakout Board](https://github.com/RU09342/lab-5-sensing-the-world-around-you-scrumbology-v2-scrum-sensor/blob/master/PCB%20Design/Schematic.png)
  
 ## Bill of Materials
 
